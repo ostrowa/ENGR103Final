@@ -2,9 +2,9 @@
 Game for ENGR 103: light loops &amp; pressing a button.
 
 Game Description/Rules:
-
 Turn the switch on to start the neopixels cycling around the Circuit Playground board. Press button B when the light next to it becomes lit up. The light cycle will speed up after each successful button press. If the player fails to press the button at the correct moment, they lose. Once the player successfully completes all levels, they win and the game begins again.
-Inputs & Outputs Specifications.
+
+Inputs & Outputs Specifications:
 Inputs:
 Switch 
 Function: When the switch is on, the game will run. Turning the switch off turns the game off. 
