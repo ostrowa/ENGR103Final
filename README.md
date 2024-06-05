@@ -1,4 +1,4 @@
-# ENGR103Final
+# LightLoopsGame
 Game for ENGR 103: light loops &amp; pressing a button.
 
 Game Description/Rules:
